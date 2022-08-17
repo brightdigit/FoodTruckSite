@@ -11,7 +11,7 @@ let package = Package(
   ],
   targets: [
     .executableTarget(
-      name: "FoodTruckSite",
+      name: "foodtrucksite",
       dependencies: [
         .product(name: "Publish", package: "publish")
       ])

@@ -12,7 +12,7 @@ public struct FoodTruckSite : Website {
   
   
   public enum SectionID : String, WebsiteSectionID {
-    case blog
+    case events
   }
   
   public struct ItemMetadata : WebsiteItemMetadata {
@@ -21,7 +21,9 @@ public struct FoodTruckSite : Website {
   
   public static func main() {
     try! FoodTruckSite().publish(using: [
-      .copyResources()
+      .addMarkdownFiles(),
+      .copyResources(),
+      .generateHTML(withTheme: .foundation, indentation: .spaces(2)),
     ])
   }
 }
