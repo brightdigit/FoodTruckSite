@@ -1,8 +1,27 @@
+import Foundation
+import Publish
+import Plot
+
 @main
-public struct FoodTruckSite {
-  public private(set) var text = "Hello, World!"
+public struct FoodTruckSite : Website {
+  public let url: URL = URL(string: "https://foodtrucks.site")!
+  public let name: String = "Food Truck"
+  public let description: String = "Website dedicated to Food Trucks"
+  public let language = Language.english
+  public let imagePath : Path? = "images/logo.png"
+  
+  
+  public enum SectionID : String, WebsiteSectionID {
+    case blog
+  }
+  
+  public struct ItemMetadata : WebsiteItemMetadata {
+    
+  }
   
   public static func main() {
-    print(FoodTruckSite().text)
+    try! FoodTruckSite().publish(using: [
+      .copyResources()
+    ])
   }
 }
