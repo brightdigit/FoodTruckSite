@@ -1,7 +1,7 @@
---- 
+---
 title: Intuitive real-time product
-date: 2022-01-31T19:26:09Z
---
+date: 2022-01-31 19:26
+---
 # Adveniet videri cum praecinctus volucres Achilles Achilli
 
 ## Omnes aequora vincemus sanguine dolens est recipit

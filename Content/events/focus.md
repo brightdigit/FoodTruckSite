@@ -1,7 +1,7 @@
---- 
+---
 title: Object-based heuristic focus group
-date: 2021-10-24T09:50:29Z
---
+date: 2021-10-24 09:50
+---
 # Inque lacrimaeque hominem sanguinis canaeque
 
 ## Harpalos Bona lumina videt ostendit ara omne

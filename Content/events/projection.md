@@ -1,7 +1,7 @@
---- 
+---
 title: Inverse dynamic projection
-date: 2021-12-05T14:17:29Z
---
+date: 2021-12-05 14:17
+---
 # In atram squamis pietas costumque falsum ventisque
 
 ## De pectora natorum

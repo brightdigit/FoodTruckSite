@@ -1,7 +1,7 @@
---- 
+---
 title: User-centric 24 hour matrix
-date: 2022-07-26T12:04:40Z
---
+date: 2022-07-26 12:04
+---
 # Longa fuit muros
 
 ## Videre fuerint tauri faucesque

@@ -1,7 +1,7 @@
---- 
+---
 title: Integrated solution-oriented matrices
-date: 2022-02-21T15:19:13Z
---
+date: 2022-02-21 15:19
+---
 # Viderat loco lucum cum factis
 
 ## Suam Hellespontus sidera

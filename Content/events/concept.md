@@ -1,7 +1,7 @@
 ---
 title: Seamless dedicated concept
-date: 2022-05-09T18:15:03Z
---
+date: 2022-05-09 18:15
+---
 # Mane armata et de vitta Salmacis sic
 
 ## Ille est dixerat intrepidum humana

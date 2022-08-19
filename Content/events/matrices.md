@@ -1,7 +1,7 @@
---- 
+---
 title: Fully-configurable motivating matrices
-date: 2021-12-16T16:01:29Z
---
+date: 2021-12-16 16:01
+---
 # Fecit Bactrius
 
 ## Et par invitaque procorum

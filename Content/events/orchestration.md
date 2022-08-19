@@ -1,7 +1,7 @@
---- 
+---
 title: Intuitive global orchestration
-date: 2022-06-13T19:48:44Z
---
+date: 2022-06-13 19:48
+---
 # Fidissime aede
 
 ## Videri cera Aeacon

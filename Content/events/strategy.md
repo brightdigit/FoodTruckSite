@@ -1,7 +1,7 @@
---- 
+---
 title: Versatile eco-centric strategy
-date: 2022-03-02T22:15:10Z
---
+date: 2022-03-02 22:15
+---
 # Quisquis naides
 
 ## Illis inclusum praecipitatur virgine amnes flavum

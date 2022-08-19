@@ -1,7 +1,8 @@
---- 
+---
 title: Customer-focused maximized architecture
-date: 2022-07-03T13:13:56Z
---
+date: 2022-07-03 13:13
+---
+
 # Perseidos utque est putas sinistro debere corripuit
 
 ## Recenti pro visa sedem illuc possim

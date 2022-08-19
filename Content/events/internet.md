@@ -1,7 +1,7 @@
---- 
+---
 title: Assimilated attitude-oriented internet solution
-date: 2022-07-19T19:25:12Z
---
+date: 2022-07-19 19:25
+---
 # Cui velum sanguine cepere
 
 ## Clarium tantum volucres deficit crura cerebrumque tamen

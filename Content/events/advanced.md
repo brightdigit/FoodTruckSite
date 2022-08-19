@@ -1,7 +1,7 @@
---- 
+---
 title: Advanced mission-critical approach
-date: 2022-05-01T17:46:07Z
---
+date: 2022-05-01 17:46
+---
 # Cornua casu vocem erravit
 
 ## Possent Cithaeron te Pyramus receptus armis summorum

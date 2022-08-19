@@ -1,7 +1,7 @@
---- 
+---
 title: Synchronised system-worthy knowledge user
-date: 2022-01-14T01:17:10Z
---
+date: 2022-01-14 01:17
+---
 # Pectore ipsa paelice aut toto
 
 ## Telae in lugubris versus lyra et omnemque

@@ -1,7 +1,7 @@
---- 
+---
 title: Progressive disintermediate emulation
-date: 2022-08-12T01:34:21Z
---
+date: 2022-08-12 01:34
+---
 # Tunc tandem nova ab longius patrios distant
 
 ## Unde ruit mentis Cadmus fluctus iaculo

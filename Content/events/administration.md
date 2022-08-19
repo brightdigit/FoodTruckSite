@@ -1,7 +1,8 @@
---- 
+---
 title: Programmable zero administration paradigm
-date: 2022-04-01T12:53:07Z
---
+date: 2022-04-01 12:53
+---
+
 # Ortus futuri
 
 ## Illic pascas vetustas rapit bracchia

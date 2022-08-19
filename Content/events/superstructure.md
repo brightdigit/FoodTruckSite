@@ -1,7 +1,7 @@
---- 
+---
 title: Centralized interactive superstructure
-date: 2022-02-17T07:16:50Z
---
+date: 2022-02-17 07:16
+---
 # Quae remorum
 
 ## Ducat moveat minatur finitimi properare onus

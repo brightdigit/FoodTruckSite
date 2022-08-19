@@ -1,7 +1,7 @@
---- 
+---
 title: Future-proofed cohesive methodology
-date: 2022-01-02T01:31:11Z
---
+date: 2022-01-02 01:31
+---
 # Dedit probat divamque minaces trieterica Achille spiro
 
 ## Minaces inlustre cum ingreditur rettulit et cornua

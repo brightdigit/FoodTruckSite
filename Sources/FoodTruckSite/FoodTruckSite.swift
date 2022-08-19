@@ -13,10 +13,22 @@ public struct FoodTruckSite : Website {
   
   public enum SectionID : String, WebsiteSectionID {
     case events
+    case donuts
+    case trucks
   }
   
   public struct ItemMetadata : WebsiteItemMetadata {
-    
+    let id : Int?
+    let dough : String?
+    let glaze : String?
+    let topping : String?
+    let address: String?
+    let latitude : String?
+    let longitude: String?
+    let city : String?
+    let state : String?
+    let postalCode : String?
+    let cuisine : String?
   }
   
   public static func main() {

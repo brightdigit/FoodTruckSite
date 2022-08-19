@@ -1,7 +1,7 @@
---- 
+---
 title: Persistent coherent challenge
-date: 2022-03-14T11:07:57Z
---
+date: 2022-03-14 11:07
+---
 # Meas fieri cecidit
 
 ## Non rore formosus

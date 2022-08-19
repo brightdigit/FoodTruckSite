@@ -1,7 +1,7 @@
---- 
+---
 Seamless dedicated concept
-date: 2022-05-09T18:15:03Z
---
+date: 2022-05-09 18:15
+---
 # Sic revolutaque iube confessis Hebre oraque
 
 ## Molire liquidis

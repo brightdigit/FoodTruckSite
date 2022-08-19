@@ -1,7 +1,7 @@
---- 
+---
 title: Networked intermediate approach
-date: 2022-01-30T13:30:10Z
---
+date: 2022-01-30 13:30
+---
 # Colebat quoque
 
 ## Concepit vires
